@@ -1,5 +1,13 @@
 # Hydroinformatics Engineer Roadmap
 
+_Note:_
+
+_- This is the initial version of the roadmap, and I welcome suggestions from other specialists in the field. Your input can help make this resource more valuable for aspiring hydroinformatics engineers._
+
+_For any suggestions, please [create an issue](https://github.com/hydrohamed/hydroinformatics-roadmap/issues) on GitHub or send an email to hydrohamed@gmail.com._
+
+_- Learning resources for each part will be added gradually._
+
 ## Introduction
 
 This roadmap provides a comprehensive guide for aspiring hydroinformatics engineers, outlining the essential knowledge and skills required in this interdisciplinary field. Hydroinformatics combines hydrology, environmental engineering, and information technology to address complex water-related challenges.
