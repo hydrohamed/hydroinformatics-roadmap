@@ -2,25 +2,25 @@
 
 _Note:_
 
-_- This is the initial version of the roadmap, and I welcome suggestions from other specialists in the field. Your input can help make this resource more valuable for aspiring hydroinformatics engineers._
+_- This roadmap is a work in progress. Contributions and suggestions from experts in the field are highly appreciated. Your input can help make this guide a valuable resource for aspiring hydroinformatics engineers._
 
-_For any suggestions, please [create an issue](https://github.com/hydrohamed/hydroinformatics-roadmap/issues) on GitHub or send an email to hydrohamed@gmail.com._
+_Please [create an issue](https://github.com/hydrohamed/hydroinformatics-roadmap/issues) on GitHub or email suggestions to  hydrohamed@gmail.com._
 
 _- Learning resources for each part will be added gradually._
 
 ## Introduction
 
-This roadmap provides a comprehensive guide for aspiring hydroinformatics engineers, outlining the essential knowledge and skills required in this interdisciplinary field. Hydroinformatics combines hydrology, environmental engineering, and information technology to address complex water-related challenges.
+This roadmap provides a comprehensive guide for aspiring hydroinformatics engineers, outlining the essential knowledge and skills required in this interdisciplinary field.
 
-This roadmap emphasizes the importance of both theoretical knowledge and practical skills. It guides learners through the multifaceted nature of hydroinformatics, preparing them for a career at the intersection of water science and information technology. The field offers exciting opportunities to tackle global water challenges using cutting-edge computational tools and data-driven approaches.
+This guide emphasizes the importance of both theoretical knowledge and practical skills. It guides learners through the multifaceted nature of hydroinformatics, preparing them for a career at the intersection of water science and information technology. The field offers exciting opportunities to tackle global water challenges using cutting-edge computational tools and data-driven approaches.
 
 ## What is Hydroinformatics?
 
-Hydroinformatics is the application of information technology and computational methods to solve complex water-related problems.You can read more about Hydroinformatics in [this](https://hydrohamed.com/articles/hydroinformatics/) article.
+Hydroinformatics involves the application of information technology and computational techniques to solve water-related problems. For a deeper understanding, you can explore more about hydroinformatics in [this](https://hydrohamed.com/articles/hydroinformatics/) article.
 
 ## Who is a Hydroinformatics Engineer?
 
-A hydroinformatics engineer is a professional who combines knowledge from hydrology, environmental engineering, and information technology to solve complex water-related problems. Their work involves the use of computational tools, data analysis, and modeling techniques to understand, predict, and manage water resources and systems.
+A hydroinformatics engineer leverages expertise in hydrology, environmental engineering, and IT to analyze, predict, and manage water systems. Their work involves using computational models, data analysis, and advanced software to address issues like water resource management, flood forecasting, and water quality monitoring.
 
 ## 1. Mathematics
 
@@ -63,17 +63,15 @@ A hydroinformatics engineer is a professional who combines knowledge from hydrol
   - Python (NumPy, Pandas, Matplotlib)
   - R
   - MATLAB
-  - Git
 - ### 3.2 Data Structures and Algorithms
   - Arrays, Linked Lists, Trees, Graphs
   - Sorting and Searching Algorithms
 - ### 3.3 Data Management
   - Database systems (SQL, NoSQL)
   - Big Data technologies (Hadoop, Spark)
-- ### 3.4 Cloud Platforms
-  - AWS (Amazon Web Services)
-  - Google Cloud Platform
-  - Microsoft Azure
+- ### 3.4 Other Related Topics
+  - Git
+  - Cloud Platforms(AWS, Google Cloud Platform, Microsoft Azure)
 
 ## 4. Geographical Information Systems (GIS)
 
@@ -87,8 +85,8 @@ A hydroinformatics engineer is a professional who combines knowledge from hydrol
   - Terrain Analysis
   - Hydrological Modelling in GIS
 - ### 4.4 Remote Sensing
-  - Basics: Satellite data, remote sensing principles.
-  - Applications: Soil moisture, precipitation estimation.
+  - Basics (Satellite data, remote sensing principles)
+  - Applications (soil moisture, precipitation estimation)
 
 ## 5. Computational Hydraulics and Hydrology
 
@@ -101,6 +99,7 @@ A hydroinformatics engineer is a professional who combines knowledge from hydrol
   - HEC-RAS
   - SWMM (Storm Water Management Model)
   - MIKE by DHI
+  - EPANET
   - MODFLOW
 
 ## 6. Data Analysis and Machine Learning
@@ -148,4 +147,4 @@ A hydroinformatics engineer is a professional who combines knowledge from hydrol
 
 ## Conclusion
 
-This roadmap provides a comprehensive guide to the knowledge and skills necessary for a career in hydroinformatics engineering. Continuous learning and practical experience are crucial to staying current in this evolving field.
+This roadmap provides a thorough guide to the essential skills and knowledge for a career in hydroinformatics engineering. Given the rapidly evolving nature of this field, continuous learning and hands-on experience are crucial for staying current and effective in addressing water-related challenges.
