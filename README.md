@@ -98,6 +98,7 @@ A hydroinformatics engineer leverages expertise in hydrology, environmental engi
   - HEC-HMS
   - HEC-RAS
   - SWMM (Storm Water Management Model)
+    - [PySWMM](https://github.com/pyswmm/pyswmm): Python Wrappers for SWMM
   - MIKE by DHI
   - EPANET
   - MODFLOW
